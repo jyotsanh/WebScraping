@@ -1,0 +1,101 @@
+,Movie,Dialogue,Directors,Producers,Genre,Editor
+0, Gone with the Wind (1939),"  ""Frankly, my dear, I don't give a damn."""," Victor Fleming, Sam Wood, George Cukor, Chester Franklin, James Fitzpatrick", David O. Selznick, Romance,"  William Reynolds, Peter Zinner"
+1, The Godfather (1972),"  ""I'm gonna make him an offer he can't refuse.""", Francis Ford Coppola," Robert Evans, Albert S. Ruddy", Drama,  Gene Milford
+2, On the Waterfront (1954),"  ""You don't understand!  I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.""", Elia Kazan, Sam Spiegel, Drama,  Blanche Sewell
+3, The Wizard of Oz (1939),"  ""Toto, I've a feeling we're not in Kansas anymore."""," Victor Fleming, King Vidor", Mervyn LeRoy," Fantasy, Musical",  Owen Marks
+4, Casablanca (1942),"  ""Here's looking at you, kid.""", Michael Curtiz," Jack L. Warner, Hal B. Wallis", Romance,  Joel Cox
+5, Sudden Impact (1983),"  ""Go ahead, make my day.""", Clint Eastwood," Clint Eastwood, Fritz Manes", Drama,"  Arthur Schmidt, Doane Harrison"
+6, Sunset Blvd. (1950),"  ""All right, Mr. DeMille, I'm ready for my close-up.""", Billy Wilder, Charles Brackett, Drama,"  Paul Hirsch, Marcia Lucas, Richard Chew, John Jympson"
+7, Star Wars (1977),"  ""May the Force be with you.""", George Lucas," Gary Kurtz, George Lucas"," Adventure, Science fiction",  Barbara McLean
+8, All About Eve (1950),"  ""Fasten your seatbelts. It's going to be a bumpy night.""", Joseph L. Mankiewicz, Darryl F. Zanuck, Drama,"  Tom Rolf, Melvin Shapiro"
+9, Taxi Driver (1976),"  ""You talking to me?""", Martin Scorsese," Michael Phillips, Julia Phillips", Drama,  Sam O'Steen
+10, Cool Hand Luke (1967),"  ""What we've got here is failure to communicate.""", Stuart Rosenberg, Gordon Carroll, Drama,"  Walter Murch, Gerald B. Greenberg, Lisa Fruchtman"
+11, Apocalypse Now (1979),"  ""I love the smell of napalm in the morning.""", Francis Ford Coppola, Francis Ford Coppola, Drama,  Robert C. Jones
+12, Love Story (1970),"  ""Love means never having to say you're sorry.""", Arthur Hiller," Howard G. Minsky, David Golden", Romance,  Thomas Richards
+13, The Maltese Falcon (1941),"  ""The stuff that dreams are made of.""", John Huston, Hal B. Wallis, Drama,  Carol Littleton
+14, E.T.:  The Extra-Terrestrial (1982),"  ""E.T. phone home.""", Steven Spielberg," Steven Spielberg, Kathleen Kennedy"," Fantasy, Science fiction",  Hal Ashby
+15, In the Heat of the Night (1967),"  ""They call me Mister Tibbs!""", Norman Jewison, Walter Mirisch, Drama,  Robert Wise
+16, Citizen Kane (1941),"  ""Rosebud.""", Orson Welles," Orson Welles, Sid Rogell", Drama,  Owen Marks
+17, White Heat (1949),"  ""Made it, Ma! Top of the world!""", Raoul Walsh, Louis F. Edelman, Drama,  Alan Heim
+18, Network (1976),"  ""I'm as mad as hell, and I'm not going to take this anymore!""", Sidney Lumet, Howard Gottfried, Comedy-drama,  Owen Marks
+19, Casablanca (1942),"  ""Louis, I think this is the beginning of a beautiful friendship.""", Michael Curtiz," Jack L. Warner, Hal B. Wallis", Romance,  Craig McKay
+20, The Silence of the Lambs (1991),"  ""A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.""", Jonathan Demme," Edward Saxon, Kenneth Utt, Ron Bozman, Gary Goetzman", Drama,  Peter Hunt
+21, Dr. No (1963),"  ""Bond. James Bond.""", Terence Young," Harry Saltzman, Albert R. Broccoli", Drama,  Blanche Sewell
+22, The Wizard of Oz (1939),"  ""There's no place like home."""," Victor Fleming, King Vidor", Mervyn LeRoy," Fantasy, Musical","  Arthur Schmidt, Doane Harrison"
+23, Sunset Blvd. (1950),"  ""I am big!  It's the pictures that got small.""", Billy Wilder, Charles Brackett, Drama,  Joe Hutshing
+24, Jerry Maguire (1996),"  ""Show me the money!""", Cameron Crowe," James L. Brooks, Cameron Crowe, Richard Sakai, Laurence Mark"," Comedy-drama, Romance",  Alexander Hall
+25, She Done Him Wrong (1933),"  ""Why don't you come up sometime and see me?""", Lowell Sherman, Jerome Hellman, Comedy-drama,  Hugh A. Robertson
+26, Midnight Cowboy (1969),"  ""I'm walking here!  I'm walking here!""", John Schlesinger," Jack L. Warner, Hal B. Wallis", Drama,  Owen Marks
+27, Casablanca (1942),"  ""Play it, Sam.  Play 'As Time goes By.'""", Michael Curtiz," David Brown, Rob Reiner, Andrew Scheinman, William Gilmore, Rachel Pfeffer", Romance,"  Robert Leighton, Steve Nevius"
+28, A Few Good Men (1992),"  ""You can't handle the truth!""", Rob Reiner, David O. Selznick, Drama,  Blanche Sewell
+29, Grand Hotel (1932),"  ""I want to be alone.""", Edmund Goulding," Jack L. Warner, Hal B. Wallis", Drama,  Owen Marks
+30, Gone with the Wind (1939),"  ""After all, tomorrow is another day!"""," Victor Fleming, Sam Wood, George Cukor, Chester Franklin, James Fitzpatrick"," Rob Reiner, Andrew Scheinman", Romance,  Robert Leighton
+31, Casablanca (1942),"  ""Round up the usual suspects.""", Michael Curtiz, Jack L. Warner, Romance,  Christian Nyby
+32, When Harry Met Sally... (1989),"  ""I'll have what she's having.""", Rob Reiner," Richard D. Zanuck, David Brown, William S. Gilmore", Romantic comedy,  Verna Fields
+33, To Have and Have Not (1945),"  ""You know how to whistle, don't you, Steve? You just put your lips together and blow.""", Howard Hawks," Jack L. Warner, Henry Blanke", Drama,  Owen Marks
+34, Jaws (1975),"  ""You're gonna need a bigger boat.""", Steven Spielberg," Gale Anne Hurd, John Daly, Derek Gibson", Drama,  Mark Goldblatt
+35, The Treasure of the Sierra Madre (1948),"  ""Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!""", John Huston, Samuel Goldwyn," Adventure, Drama",  Daniel Mandell
+36, The Terminator (1984),"  ""I'll be back.""", James Cameron," Lawrence Gordon, Charles Gordon, Brian Frankish", Science fiction,  Ian Crafford
+37, The Pride of the Yankees (1943),"  ""Today, I consider myself the luckiest man on the face of the earth.""", Sam Wood," Wendy Finerman, Steve Tisch, Steve Starkey", Biography,  Arthur Schmidt
+38, Field of Dreams (1989),"  ""If you build it, he will come.""", Phil Alden Robinson, Warren Beatty," Drama, Fantasy",  Dede Allen
+39, Forrest Gump (1994),"  ""My mama always said life was like a box of chocolates. You never know what you're gonna get.""", Robert Zemeckis, Lawrence Turman, Comedy-drama,  Sam O'Steen
+40, Bonnie and Clyde (1967),"  ""We rob banks.""", Arthur Penn," Jack L. Warner, Hal B. Wallis"," Biography, Drama",  Owen Marks
+41, The Graduate (1967),"  ""Plastics.""", Mike Nichols," Frank Marshall, Kathleen Kennedy, Barry Mendel", Comedy-drama,  Andrew Mondshein
+42, Casablanca (1942),"  ""We'll always have Paris.""", Michael Curtiz, Charles K. Feldman, Romance,  David Weisbart
+43, The Sixth Sense (1999),"  ""I see dead people.""", M. Night Shyamalan, George Stevens," Drama, Mystery",  Warren Low
+44, A Streetcar Named Desire (1951),"  ""Stella!  Hey, Stella!""", Elia Kazan, Billy Wilder, Drama,"  William Hornbeck, Tom McAdoo"
+45," Now, Voyager (1942)","  ""Oh, Jerry, don't let's ask for the moon. We have the stars.""", Irving Rapper, Carl Laemmle Jr., Melodrama,  Arthur Schmidt
+46, Shane (1953),"  ""Shane.  Shane.  Come back!""", George Stevens, Brian Grazer, Western,  Clarence Kolster
+47, Some Like It Hot (1959),"  ""Well, nobody's perfect.""", Billy Wilder," Robert Daley, Clint Eastwood, Don Siegel", Comedy,"  Mike Hill, Dan Hanley"
+48, Frankenstein (1931),"  ""It's alive!  It's alive!""", James Whale," James L. Brooks, Cameron Crowe, Richard Sakai, Laurence Mark"," Horror, Science fiction",  Carl Pingitore
+49, Apollo 13 (1995),"  ""Houston, we have a problem.""", Ron Howard," Robert Greenhut, Elliot Abbott, Penny Marshall", Drama,  Joe Hutshing
+50, Dirty Harry (1971),"  ""You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?""", Don Siegel," Charles H. Joffe, Robert Greenhut", Drama,"  George Bowers, Adam Bernardi"
+51, Jerry Maguire (1996),"  ""You had me at ""hello.""""", Cameron Crowe, Alfred Hitchcock," Comedy-drama, Romance","  Ralph Rosenblum , A.C.E., Wendy Greene Bricmont"
+52, Animal Crackers (1930),"  ""One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.""", Victor Heerman, Edward R. Pressman, Comedy,  George Tomasini
+53, A League of Their Own (1992),"  ""There's no crying in baseball!""", Penny Marshall," Robert Evans, Francis Ford Coppola", Comedy-drama,  Claire Simpson
+54, Annie Hall (1977),"  ""La-dee-da, la-dee-da.""", Woody Allen, David O. Selznick, Romantic comedy,  Richard Marks
+55, Psycho (1960),"  ""A boy's best friend is his mother.""", Alfred Hitchcock, Hal Roach, Horror,  Bert Jordan
+56, Wall Street (1987),"  ""Greed, for lack of a better word, is good.""", Oliver Stone," Martin Bregman, Louis A. Stroller", Drama,"  Jerry Greenberg, David Ray"
+57, The Godfather Part II (1974),"  ""Keep your friends close, but your enemies closer.""", Francis Ford Coppola, Henry Blanke, Drama,  Rudi Fehr
+58, Gone with the Wind (1939),"  ""As God is my witness, I'll never be hungry again."""," Victor Fleming, Sam Wood, George Cukor, Chester Franklin, James Fitzpatrick", Lawrence Turman, Romance,  Sam O'Steen
+59, Sons of the Desert (1933),"  ""Well, here's another nice mess you've gotten me into!""", William A. Seiter, Stanley Kubrick, Comedy,  Anthony Harvey
+60, Scarface (1983),"  ""Say ""hello"" to my little friend!""", Brian De Palma, Arthur P. Jacobs, Drama,  Robert Bischoff
+61, Beyond the Forest (1949),"  ""What a dump.""", King Vidor," Jack L. Warner, Hal B. Wallis", Melodrama,  Hugh S. Fowler
+62, The Graduate (1967),"  ""Mrs. Robinson, you're trying to seduce me.  Aren't you?""", Mike Nichols," Stanley Kubrick, Jan Harlan", Comedy-drama,  Owen Marks
+63, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),"  ""Gentlemen, you can't fight in here! This is the War Room!""", Stanley Kubrick," Steven Spielberg, Frank Marshall", Black comedy,  Ray Lovejoy
+64, The Adventures of Sherlock Holmes (1939),"  ""Elementary, my dear Watson.""", Alfred Werker," Robert Evans, Sidney Beckerman", Drama,  Michael Kahn
+65, Planet of the Apes (1968),"  ""Take your stinking paws off me, you damned dirty ape.""", Franklin J. Schaffner," Frank Yablans, David Koontz, Terence O'Neill", Science fiction,  Jim Clark
+66, Casablanca (1942),"  ""Of all the gin joints in all the towns in all the world, she walks into mine.""", Michael Curtiz, Robert Evans, Romance,  Harold McCord
+67, The Shining (1980),"  ""Here's Johnny!""", Stanley Kubrick, Charles K. Feldman, Drama,  Peter E. Berger
+68, Poltergeist (1982),"  ""They're here!""", Tobe Hooper," James Cameron, Gale Anne Hurd", Horror,  Ray Curtiss
+69, Marathon Man (1976),"  ""Is it safe?""", John Schlesinger," Walter Seltzer, Russell Thacher", Drama,  Sam O'Steen
+70, The Jazz Singer (1927),"  ""Wait a minute, wait a minute.  You ain't heard nothin' yet!""", Alan Crosland, Stanley Kubrick, Melodrama,  David Weisbart
+71, Mommie Dearest (1981),"  ""No wire hangers, ever!""", Frank Perry," Jon Davison, Jim Abrahams, David Zucker, Jerry Zucker"," Biography, Melodrama","  Conrad Buff, Mark Goldblatt, Richard A. Harris"
+72, Little Caesar (1931),"  ""Mother of mercy, is this the end of Rico?""", Mervyn LeRoy," Irwin Winkler, Robert Chartoff, Gene Kirkwood", Drama,  Samuel E. Beetley
+73, Chinatown (1974),"  ""Forget it, Jake, it's Chinatown.""", Roman Polanski, Ray Stark," Mystery, Romance",  Ray Lovejoy
+74, A Streetcar Named Desire (1951),"  ""I have always depended on the kindness of strangers.""", Elia Kazan," Matty Simmons, Ivan Reitman", Drama,  Patrick Kennedy
+75, Terminator 2:  Judgment Day (1991),"  ""Hasta la vista, baby.""", James Cameron, Carl Laemmle Jr.," Adventure, Science fiction","  Richard Halsey, Scott Conrad"
+76, Soylent Green (1973),"  ""Soylent Green is people!""", Richard O. Fleischer, David O. Selznick, Science fiction,"  Maury Winetrobe, William Sands"
+77, 2001: A Space Odyssey (1968),"  ""Open the pod bay doors, please, HAL.""", Stanley Kubrick," Barrie M. Osborne, Fran Walsh, Peter Jackson, Mark Ordesky, Bob Weinstein, Harvey Weinstein, Robert Shaye, Michael Lynne", Science fiction,"  George Folsey, Jr."
+78, Airplane! (1980),"  ""Striker: Surely you can't be serious."""," Jim Abrahams, David Zucker, Jerry Zucker"," Martin Bergman, Martin Elfand", Comedy,  Milton Carruth
+79, Rocky (1976),"  ""Yo, Adrian!""", John G. Avildsen, Darryl F. Zanuck, Drama,  Ted Cheesman
+80, Funny Girl (1968),"  ""Hello, gorgeous.""", William Wyler, Bruce Gilbert," Biography, Musical","  D. Michael Horton, Jabez Olssen"
+81, National Lampoon's Animal House (1978),"  ""Toga!  Toga!""", John Landis, Hal B. Wallis, Comedy,  Dede Allen
+82, Dracula (1931),"  ""Listen to them.  Children of the night.  What music they make.""", Tod Browning," Harry Saltzman, Albert R. Broccoli", Horror,"  Frank Ware, Thomas Pratt"
+83, King Kong (1933),"  ""Oh, no, it wasn't the airplanes. It was Beauty killed the Beast."""," Merian C. Cooper, Ernest B. Schoedsack"," Milton Feld, Edmund L. Hartmann, John Grant"," Adventure, Horror",  Robert L. Wolfe
+84, The Lord of the Rings: The Two Towers (2002),"  ""My precious.""", Peter Jackson," Douglas Kenney, Jon Peters"," Adventure, Drama, Fantasy",  Ralph Dawson
+85, Dog Day Afternoon (1975),"  ""Attica! Attica!""", Sidney Lumet," Don Simpson, Jerry Bruckheimer, Bill Badalato", Drama,  Peter Hunt
+86, 42nd Street (1933),"  ""Sawyer, you're going out a youngster, but you've t to come back a star!""", Lloyd Bacon," Steven  Haft, Paul Junger Witt, Tony Thomas", Musical,  Arthur Hilton
+87, On Golden Pond (1981),"  ""Listen to me, mister. You're my knight in shining armor.  Don't you forget it.  You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna , go, go!""", Mark Rydell," Patrick Palmer, Norman Jewison", Drama,"  William Carruth, Robert Barrére"
+88, Knute Rockne--All American (1940),"  ""Tell 'em to go out there with all they got and win just one for the Gipper.""", Lloyd Bacon," Jack L. Warner, Hal B. Wallis"," Biography, Drama",  William Ziegler
+89, Goldfinger (1964),"  ""A martini.  Shaken, not stirred.""", Guy Hamilton," Linda Gottlieb, Mitchell Cannold, Steven Reuther"," Adventure, Drama","  Billy Weber, Chris Lebenzon"
+90, The Naughty Nineties (1945),"  ""Who's on first.""", Jean Yarbrough, Mervyn LeRoy, Comedy,"  William R. Anderson, Priscilla Nedd, Leigh Smith"
+91, Caddyshack (1980),"  ""Cinderella story.  Outta nowhere.  A former greenskeeper, now, about to  become the Masters champion.  It looks like a mirac...It's in the hole!  It's in the hole!  It's in the hole!""", Harold Ramis," James Cameron, Jon Landau", Comedy,  Lou Lombardo
+92, Auntie Mame (1958),"  ""Life is a banquet, and most poor suckers are starving to death!""", Morton DaCosta, David O. Selznick, Comedy,  George Amy
+93, Top Gun (1986),"  ""I feel the need - the need for speed!""", Tony Scott," Robert Evans, Albert S. Ruddy"," Drama, Romance",  Peter C. Frank
+94, Dead Poets Society (1989),"  ""Carpe diem.  Seize the day, boys.  Make your lives extraordinary.""", Peter Weir, Sam Spiegel, Comedy-drama,  Blanche Sewell
+95, Moonstruck (1987),"  ""Snap out of it!""", Norman Jewison, Mervyn LeRoy, Romantic comedy,"  Conrad Buff, James Cameron, Richard A. Harris"
+96, Yankee Doodle Dandy (1942),"  ""My mother thanks you. My father thanks you. My sister thanks you. And I thank you.""", Michael Curtiz," Jack L. Warner, Hal B. Wallis"," Biography, Musical","  William Reynolds, Peter Zinner"
+97, Dirty Dancing (1987),"  ""Nobody puts Baby in a corner.""", Emile Ardolino," Clint Eastwood, Fritz Manes"," Drama, Romance",  Gene Milford
+98, The Wizard of Oz (1939),"  ""I'll get you, my pretty, and your little dog, too!"""," Victor Fleming, King Vidor", Charles Brackett," Fantasy, Musical",  Blanche Sewell
+99, Titanic (1997),"  ""I'm the king of the world!""", James Cameron," Gary Kurtz, George Lucas"," Drama, Romance",  Owen Marks
