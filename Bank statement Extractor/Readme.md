@@ -1,6 +1,6 @@
 # Bank Statement Extractor
 
-Bank Statement Extractor is a Python application that allows users to extract their bank statements from a specific website. It combines web scraping using `requests` and `selenium` libraries with a Streamlit frontend for user interaction.
+Bank Statement Extractor is a Python application that allows users to extract their bank statements from a ['prabhu','mahalaxmi','muktinath'] banks website. It combines web scraping using `requests` and `selenium` libraries with a Streamlit frontend for user interaction.
 
 ## Features
 
