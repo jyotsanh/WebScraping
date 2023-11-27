@@ -28,7 +28,7 @@ The script will extract data from the website and save it in a structured format
 
 ## Contributing
 
-If you would like to contribute to this repository, feel free to create a pull request. Please ensure that your code is well-documented and adheres to the [PEP 8 style guide](https://www.python.org/dev/peps/pep-0008/).
+If you would like to contribute to this repository, feel free to create a pull request. Please ensure that your code is well-documented.
 
 ## License
 
