@@ -1,4 +1,4 @@
-
+![](./img/wweboo.jpg)
 # WebScraping Repository
 
 This repository contains a collection of Python scripts for web scraping. These scripts are designed to extract data from various websites and save it in a structured format such as CSV or JSON.
